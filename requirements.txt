@@ -1,3 +1,4 @@
+autogpt
 black
 isort
 flake8
